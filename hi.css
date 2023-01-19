@@ -1,0 +1,17 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.hi {
+    display: flex;
+    justify-content: center;
+    color: red;
+    font-size: 24;
+}
